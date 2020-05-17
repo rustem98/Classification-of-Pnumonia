@@ -2,7 +2,7 @@
 
 To open Juputer notebook files go to https://nbviewer.jupyter.org/ then paste there the link of the jupyter notebook you want to open. The reason for this is Github's backend have problem with *.ipynb files. But hey there is alternative *.py file. 
 
-
+Dataset is taken from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 This is a binary classification machine learning model. It classifies the exitence of pneumonia from chest X-Ray photographs. All the classification methods are done form scratch in Python. 
 
